@@ -1,8 +1,7 @@
 ---
 author:
 
-- Irene Pérez, Carlos Borrego, Eloi Puertas date: Febrer 2021 title: Pràctica 1 - Client Servidor (
-  Software distribüit)
+- Oriol Saguillo and Maribel Gonzalez
 
 ---
 
